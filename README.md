@@ -24,9 +24,8 @@ I'm currently a 3rd-year student at **Murang’a University of Technology** purs
 ---
 
 ### 📫 Let's Connect!
-- 🔗 GitHub: [github.com/samuelkimani](https://github.com/samuelkimani)
-- 📧 Email: `your-email@example.com` *(replace this)*
-- 🌍 Portfolio (if any): [YourPortfolio.com](#)
+- 🔗 GitHub: [github.com/Mrlonewolf296](https://github.com/Mrlonewolf296)
+- 📧 Email: `ngurekimani254@gmail.com(#)
 
 ---
 
